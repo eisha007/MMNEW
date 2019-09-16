@@ -1,0 +1,48 @@
+<resources>
+
+
+
+    <string name="app_name">MarchMadness</string>
+
+
+    <string name="zion">Zion Williamson</string>
+    <string name="tacko">Tacko Falls</string>
+    <string name="kyle">Kyle Guy</string>
+    <string name="rj">RJ Barrett</string>
+    <string name="villa">Villanova</string>
+    <string name="virg">Virginia</string>
+    <string name="duke">Duke</string>
+    <string name="zag">Gonzaga</string>
+    <string name="t">True</string>
+    <string name="f">False</string>
+
+
+
+    <string name="cb1"> The NCAA Mens Basketball Tournament was founded in 1907</string>
+    <string name="cb2"> Kansas won the very first NCAA Mens Division Basketball Championship game</string>
+    <string name="cb3"> Teams have ever entered the NCAA Mens Basketball Tournament undefeated.</string>
+    <string name="cb4"> North Carolina won the 2009 NCAA Mens Basketball Championship </string>
+    <string name="cb5"> The very first Final Four, played in 1939, was held in Evanston, Illinois</string>
+    <string name="cb6"> Indiana won the 1981 NCAA Final Four</string>
+    <string name="cb7"> UNC has made it to the Final Four 12 times</string>
+    <string name="cb8"> John Calipari is the highest paid college basketball coach</string>
+    <string name="cb9"> Chris Webber was a member of Michigans Fab Five.</string>
+    <string name="cb10"> Michael Jordan played for the University of North Carolina</string>
+
+    <string-array name="players_array">
+        <item>1. Cassius Winston</item>
+        <item>2. Markus Howard</item>
+        <item>3. Myles Powell</item>
+        <item>4. James Wiseman</item>
+        <item>5. Cole Anthony</item>
+        <item>6. Jordan Nwora</item>
+        <item>7. Kerry Blackshear Jr.</item>
+        <item>8. Tre Jones</item>
+        <item>9. Anthony Cowan Jr.</item>
+        <item>10. Lamar Stevens</item>
+    </string-array>
+
+
+
+
+</resources>

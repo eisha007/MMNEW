@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/court"
+    tools:context=".MainActivity">
+
+    <Button
+        android:id="@+id/top20"
+        android:layout_width="249dp"
+        android:layout_height="48dp"
+        android:layout_marginStart="81dp"
+        android:layout_marginTop="298dp"
+        android:layout_marginEnd="81dp"
+        android:layout_marginBottom="385dp"
+        android:background="@android:color/background_light"
+        android:onClick="start20"
+        android:text="Top 10 Players To Watch"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/test"
+        android:layout_width="249dp"
+        android:layout_height="48dp"
+        android:layout_marginStart="81dp"
+        android:layout_marginTop="366dp"
+        android:layout_marginEnd="81dp"
+        android:layout_marginBottom="317dp"
+        android:background="@android:color/background_light"
+        android:onClick="startTest"
+        android:text="MM 2019 Mini Multiple Choice Quiz"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/whoLike"
+        android:layout_width="249dp"
+        android:layout_height="48dp"
+        android:layout_marginStart="81dp"
+        android:layout_marginTop="437dp"
+        android:layout_marginEnd="81dp"
+        android:layout_marginBottom="246dp"
+        android:background="@android:color/background_light"
+        android:onClick="startWho"
+        android:text="Zion Williamson True/False Quiz"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/rando"
+        android:layout_width="221dp"
+        android:layout_height="21dp"
+        android:layout_marginStart="91dp"
+        android:layout_marginTop="219dp"
+        android:layout_marginEnd="92dp"
+        android:layout_marginBottom="475dp"
+        android:background="@android:color/background_dark"
+        android:text="all things 2019/2020 MM related"
+        android:textAlignment="center"
+        android:textColor="@android:color/background_light"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="309dp"
+        android:layout_height="118dp"
+        android:layout_marginStart="52dp"
+        android:layout_marginTop="101dp"
+        android:layout_marginEnd="50dp"
+        android:layout_marginBottom="512dp"
+        android:background="@android:color/background_dark"
+        android:text="March Madness "
+        android:textAlignment="center"
+        android:textColor="@android:color/background_light"
+        android:textSize="45sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
